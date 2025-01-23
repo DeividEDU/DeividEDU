@@ -9,6 +9,15 @@
     :bicyclist: Nas horas vagas, gosto de pedalar.<br>
 </p>
 
+----
+
+<br>
+###Tecnologias##
+
+----
+![Python](https://img.shields.io/badge/:badgeContent?style=plastic&logo=python&logoColor=blue&logoSize=auto&labelColor=white&color=blue)
+
+
 
 
 
