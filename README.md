@@ -1,6 +1,15 @@
 ## Olá! Bem vindos ao meu 'Hello world!' :earth_americas: 👋
 
-:earth_americas:
+<p>
+	:notebook_with_decorative_cover: Me chamo Deivd. Sou pai, esposo, professor de música e de tecnologia.
+    :notes: Música e :computers: Tecnologia são minhas grandes paixões.
+    :brazil: Sou Brasileiro, moro em Curitiba-PR.
+    :books: Amo estudar e estou me aprimorando em tecnologia.
+    :rocket: Graduando de Licenciatura em Computação - UTFPR, quero cada vez mais ajudar projetos e me qualificar na área.
+    :bicyclist: Nas horas vagas, gosto de pedalar.
+</p>
+
+
 
 
 <!--
