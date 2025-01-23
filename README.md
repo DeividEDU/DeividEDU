@@ -2,7 +2,7 @@
 
 <p>
 	:notebook_with_decorative_cover: Me chamo Deivd. Sou pai, esposo, professor de música e de tecnologia.<br>
-    :notes: Música e :computers: Tecnologia são minhas grandes paixões.<br>
+    :notes: Música e :computer: Tecnologia são minhas grandes paixões.<br>
     :brazil: Sou Brasileiro, moro em Curitiba-PR.<br>
     :books: Amo estudar e estou me aprimorando em tecnologia.<br>
     :rocket: Graduando de Licenciatura em Computação - UTFPR, quero cada vez mais ajudar projetos e me qualificar na área.<br>
